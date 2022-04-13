@@ -1,0 +1,40 @@
+body{
+    font: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 1%;
+}
+
+.navbar{
+    background-color: darkcyan;
+}
+
+.quem-somos{
+    background-color: lightgreen;
+    color: white;
+}
+
+.margin{
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+.quemsomos-h4{
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.parceiros{
+    background-color: darkcyan;
+}
+
+.tamanho-img-conteiner img{
+    width: 100%;
+}
+
+.servicos{
+    background-color: lightgreen;
+}
+
+.bg-footer{
+    background-color: darkcyan;
+}
